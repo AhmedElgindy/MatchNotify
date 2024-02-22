@@ -1,0 +1,11 @@
+beautifulsoup4==4.12.3
+bs4==0.0.2
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.6
+jeepney==0.8.0
+loguru==0.6.0
+notify-py==0.3.42
+requests==2.31.0
+soupsieve==2.5
+urllib3==2.2.1
